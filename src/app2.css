@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(109, 238, 255);
+}
+
+h1{
+    text-decoration: underline;
+    background-color: darkblue;
+    margin-top: 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+img{
+    width: 800px;
+    height: 300px;
+    display: block;
+    margin: auto;
+}
+p{
+    color: darkred;
+    text-align: left;
+    padding-left: 20px;
+}
+a{
+    color: blue;
+    font-size: x-large;
+    
+}
+a:hover{
+    color: crimson;
+}
+li{
+    text-align: left;
+}
